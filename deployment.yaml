@@ -17,5 +17,6 @@ spec:
       containers:
         - name: movie-ticket-booking
           image: akshitha933/movie-ticket-booking:latest
+          imagePullPolicy: IfNotPresent
           ports:
             - containerPort: 80
