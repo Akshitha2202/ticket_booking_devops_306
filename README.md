@@ -1,7 +1,7 @@
 Movie Ticket Booking Web App – DevOps Assignment
 
 Tech Stack:
-- HTML,CSS, JavaScript (Basic fromtend code)
+- HTML,CSS, JavaScript (Basic froNtend code)
 - Docker
 - Jenkins
 - Kubernetes (Minikube)
@@ -63,6 +63,6 @@ Screenshots
 ![Terminal Running Container](cmd_running.PNG)
 
 
-Conclusion
+Conclusion :
 This project demonstrates a full DevOps workflow for a web application using Docker, Jenkins, and Kubernetes. 
 It shows how frontend applications can be containerized, deployed, and scaled in a practical environment.
